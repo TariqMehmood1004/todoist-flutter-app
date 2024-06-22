@@ -21,3 +21,18 @@ If you have any questions or feedback, feel free to reach out to us at [johnbrri
 
 ### Version
 **1.0.0**
+
+
+## Flutter Installation Guide
+
+If you haven't installed Flutter yet, follow these steps:
+
+1. **Download Flutter:** Visit the [Flutter website](https://flutter.dev/docs/get-started/install) and download the Flutter SDK for your operating system.
+2. **Extract the ZIP file:** Extract the downloaded ZIP file to a location on your computer.
+3. **Set up Flutter:** Add the Flutter `bin` directory to your system's PATH variable.
+4. **Verify the installation:** Open a terminal and run `flutter doctor`. This command will check your Flutter installation and provide any additional steps needed.
+
+Once Flutter is installed, navigate to your project directory in the terminal and run:
+
+```bash
+flutter pub get
