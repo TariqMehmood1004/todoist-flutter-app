@@ -17,7 +17,7 @@ Todoist is a simple and intuitive app designed to help you manage your tasks eff
 6. Clean and user-friendly interface
 
 ### Contact Us
-If you have any questions or feedback, feel free to reach out to us at [contact@todoistapp.com](mailto:contact@todoistapp.com).
+If you have any questions or feedback, feel free to reach out to us at [johnbrrighte@engineer.com](mailto:johnbrrighte@engineer.com).
 
 ### Version
 **1.0.0**
