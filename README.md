@@ -1,16 +1,23 @@
-# todoist
+# Todoist
 
-A new Flutter project.
+## About the App
 
-## Getting Started
+### App Name
+**Todoist**
 
-This project is a starting point for a Flutter application.
+### Description
+Todoist is a simple and intuitive app designed to help you manage your tasks efficiently. With features like adding, editing, and deleting todos, it ensures that you stay on top of your tasks effortlessly. You can also mark tasks as completed and view your progress at a glance.
 
-A few resources to get you started if this is your first Flutter project:
+### Features
+1. Add new tasks easily
+2. Edit existing tasks
+3. Delete tasks you no longer need
+4. Mark tasks as completed
+5. View a list of all your tasks
+6. Clean and user-friendly interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Contact Us
+If you have any questions or feedback, feel free to reach out to us at [contact@todoistapp.com](mailto:contact@todoistapp.com).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Version
+**1.0.0**
