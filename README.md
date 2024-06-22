@@ -32,6 +32,8 @@ If you haven't installed Flutter yet, follow these steps:
 3. **Set up Flutter:** Add the Flutter `bin` directory to your system's PATH variable.
 4. **Verify the installation:** Open a terminal and run `flutter doctor`. This command will check your Flutter installation and provide any additional steps needed.
 
+**Download apk File:** 
+
 Once Flutter is installed, navigate to your project directory in the terminal and run:
 
 ```bash
